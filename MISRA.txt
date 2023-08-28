@@ -1,0 +1,793 @@
+"..\APP\../LIB/STD_TYPES.h", line 12: warning #1376-D: (MISRA-C:2004 1.1/R) Ensure strict ANSI C mode (-ps) is enabled
+"../APP/app.c", line 16: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../APP/app.c", line 18: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../APP/app.c", line 20: warning #1383-D: (MISRA-C:2004 8.1/R) Functions shall have prototype declarations and the prototype shall be visible at both the function definition and call
+"../APP/app.c", line 27: warning #1383-D: (MISRA-C:2004 8.1/R) Functions shall have prototype declarations and the prototype shall be visible at both the function definition and call
+"../APP/app.c", line 32: warning #1484-D: (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+"../APP/app.c", line 33: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../APP/app.c", line 33: warning #1485-D: (MISRA-C:2004 6.2/R) signed and unsigned char type shall be used only for the storage and use of numeric values
+"../APP/app.c", line 40: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../APP/app.c", line 40: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../APP/app.c", line 42: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../APP/app.c", line 48: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../APP/app.c", line 54: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+'Finished building: ../APP/app.c'
+"..\LIB/STD_TYPES.h", line 12: warning #1376-D: (MISRA-C:2004 1.1/R) Ensure strict ANSI C mode (-ps) is enabled
+"..\LIB/BIT_MATH.h", line 12: warning #1428-D: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"..\LIB/BIT_MATH.h", line 12: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "var" is used as an operand of # or ##.
+"..\LIB/BIT_MATH.h", line 13: warning #1428-D: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"..\LIB/BIT_MATH.h", line 13: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "var" is used as an operand of # or ##.
+"..\LIB/BIT_MATH.h", line 14: warning #1428-D: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"..\LIB/BIT_MATH.h", line 14: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "var" is used as an operand of # or ##.
+"..\LIB/BIT_MATH.h", line 16: warning #1428-D: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"..\LIB/BIT_MATH.h", line 16: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "var" is used as an operand of # or ##.
+"..\LIB/BIT_MATH.h", line 16: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "var" is used as an operand of # or ##.
+"..\LIB/BIT_MATH.h", line 16: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "value" is used as an operand of # or ##.
+"..\LIB/BIT_MATH.h", line 16: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "bit_no" is used as an operand of # or ##.
+"..\LIB/BIT_MATH.h", line 18: warning #1428-D: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"..\LIB/BIT_MATH.h", line 18: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "var" is used as an operand of # or ##.
+"..\LIB/BIT_MATH.h", line 18: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "bit_no" is used as an operand of # or ##.
+"../calculator.c", line 14: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 19: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 23: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 22: warning #1416-D: (MISRA-C:2004 15.2/R) An unconditional break statement shall terminate every non-empty switch clause
+"../calculator.c", line 15: warning #1471-D: (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause
+"../calculator.c", line 38: warning #1411-D: (MISRA-C:2004 13.3/R) Floating-point expressions shall not be tested for equality or inequality
+"../calculator.c", line 38: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 44: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../calculator.c", line 45: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a return expression
+"../calculator.c", line 49: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../calculator.c", line 50: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a return expression
+"../calculator.c", line 48: warning #1416-D: (MISRA-C:2004 15.2/R) An unconditional break statement shall terminate every non-empty switch clause
+"../calculator.c", line 45: warning #1468-D: (MISRA-C:2004 14.7/R) A function shall have a single point of exit at the end of the function
+"../calculator.c", line 61: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 63: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 65: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 66: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 68: warning #1405-D: (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions
+"../calculator.c", line 68: warning #1405-D: (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions
+"../calculator.c", line 68: warning #1459-D: (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+"../calculator.c", line 68: warning #1484-D: (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+"../calculator.c", line 71: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 71: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../calculator.c", line 71: warning #1484-D: (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+"../calculator.c", line 76: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../calculator.c", line 78: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 79: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 81: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 82: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 87: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../calculator.c", line 88: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 89: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 89: warning #1405-D: (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions
+"../calculator.c", line 89: warning #1405-D: (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions
+"../calculator.c", line 89: warning #1459-D: (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+"../calculator.c", line 95: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 95: warning #1487-D: (MISRA-C:2004 12.2/R) The value of an expression shall be the same under any order of evaluation that the standard permits
+"../calculator.c", line 97: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../calculator.c", line 98: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 103: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../calculator.c", line 111: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../calculator.c", line 114: warning #1487-D: (MISRA-C:2004 12.2/R) The value of an expression shall be the same under any order of evaluation that the standard permits
+"../calculator.c", line 123: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../calculator.c", line 124: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 126: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 128: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 128: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../calculator.c", line 128: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../calculator.c", line 128: warning #1459-D: (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+"../calculator.c", line 128: warning #1483-D: (MISRA-C:2004 12.6/A) Expressions that are effectively Boolean should not be used as operands to operators other than (&&, ||, !, =, ==, != and ?:)
+"../calculator.c", line 130: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../calculator.c", line 131: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../calculator.c", line 133: warning #1497-D: (MISRA-C:2004 5.7/A) No identifier name should be reused ("Last_u8Index")
+"../calculator.c", line 133: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 134: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 134: warning #1487-D: (MISRA-C:2004 12.2/R) The value of an expression shall be the same under any order of evaluation that the standard permits
+"../calculator.c", line 137: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../calculator.c", line 138: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 144: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../calculator.c", line 146: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../calculator.c", line 149: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../calculator.c", line 155: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../calculator.c", line 158: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../calculator.c", line 163: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../calculator.c", line 164: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../calculator.c", line 165: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 20: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 21: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 23: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/KEYPAD/keypad_program.c", line 24: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../HAL/KEYPAD/keypad_program.c", line 24: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../HAL/KEYPAD/keypad_program.c", line 24: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 25: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/KEYPAD/keypad_program.c", line 26: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../HAL/KEYPAD/keypad_program.c", line 26: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../HAL/KEYPAD/keypad_program.c", line 26: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 28: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/KEYPAD/keypad_program.c", line 29: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../HAL/KEYPAD/keypad_program.c", line 29: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../HAL/KEYPAD/keypad_program.c", line 29: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 30: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/KEYPAD/keypad_program.c", line 31: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../HAL/KEYPAD/keypad_program.c", line 31: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../HAL/KEYPAD/keypad_program.c", line 31: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 34: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/KEYPAD/keypad_program.c", line 35: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../HAL/KEYPAD/keypad_program.c", line 35: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../HAL/KEYPAD/keypad_program.c", line 35: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 38: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/KEYPAD/keypad_program.c", line 39: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../HAL/KEYPAD/keypad_program.c", line 39: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../HAL/KEYPAD/keypad_program.c", line 39: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 40: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/KEYPAD/keypad_program.c", line 41: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../HAL/KEYPAD/keypad_program.c", line 41: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../HAL/KEYPAD/keypad_program.c", line 41: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 48: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 52: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 52: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 52: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 53: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 53: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 53: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 54: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 54: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 54: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 55: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 55: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 55: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 59: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 59: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 59: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 59: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 64: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 64: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 64: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 64: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 66: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 66: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 68: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/KEYPAD/keypad_program.c", line 69: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 69: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 71: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/KEYPAD/keypad_program.c", line 72: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 72: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 75: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 76: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 79: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/KEYPAD/keypad_program.c", line 81: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 84: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/KEYPAD/keypad_program.c", line 85: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/KEYPAD/keypad_program.c", line 90: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 90: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 94: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 94: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 94: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 95: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 95: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 95: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 96: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 96: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 96: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 97: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 97: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/KEYPAD/keypad_program.c", line 97: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+'Finished building: ../HAL/KEYPAD/keypad_program.c'
+' '
+'Building file: ../HAL/LCD/LCD_program.c'
+'Invoking: ARM Compiler'
+"C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=FPv4SPD16 -me --include_path="C:/Users/Admin/workspace_EUI/CALCULATOR" --include_path="C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.4.LTS/include" --define=ccs="ccs" --define=PART_TM4C123GH6PM -g --gcc --diag_warning=225 --diag_wrap=off --display_error_number --abi=eabi --check_misra="all,-19.4" --preproc_with_compile --preproc_dependency="HAL/LCD/LCD_program.d_raw" --obj_directory="HAL/LCD"  "../HAL/LCD/LCD_program.c"
+"..\HAL\LCD\../../LIB/BIT_MATH.h", line 12: warning #1428-D: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"..\HAL\LCD\../../LIB/BIT_MATH.h", line 12: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "var" is used as an operand of # or ##.
+"..\HAL\LCD\../../LIB/BIT_MATH.h", line 13: warning #1428-D: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"..\HAL\LCD\../../LIB/BIT_MATH.h", line 13: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "var" is used as an operand of # or ##.
+"..\HAL\LCD\../../LIB/BIT_MATH.h", line 14: warning #1428-D: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"..\HAL\LCD\../../LIB/BIT_MATH.h", line 14: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "var" is used as an operand of # or ##.
+"..\HAL\LCD\../../LIB/BIT_MATH.h", line 16: warning #1428-D: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"..\HAL\LCD\../../LIB/BIT_MATH.h", line 16: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "var" is used as an operand of # or ##.
+"..\HAL\LCD\../../LIB/BIT_MATH.h", line 16: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "var" is used as an operand of # or ##.
+"..\HAL\LCD\../../LIB/BIT_MATH.h", line 16: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "value" is used as an operand of # or ##.
+"..\HAL\LCD\../../LIB/BIT_MATH.h", line 16: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "bit_no" is used as an operand of # or ##.
+"..\HAL\LCD\../../LIB/BIT_MATH.h", line 18: warning #1428-D: (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro
+"..\HAL\LCD\../../LIB/BIT_MATH.h", line 18: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "var" is used as an operand of # or ##.
+"..\HAL\LCD\../../LIB/BIT_MATH.h", line 18: warning #1430-D: (MISRA-C:2004 19.10/R) In the definition of a function-like macro each instance of a parameter shall be enclosed in parentheses unless it is used as the operand of # or ##. The compiler cannot determine if the parameter "bit_no" is used as an operand of # or ##.
+"..\HAL\LCD\../../LIB/STD_TYPES.h", line 12: warning #1376-D: (MISRA-C:2004 1.1/R) Ensure strict ANSI C mode (-ps) is enabled
+"../HAL/LCD/LCD_program.c", line 22: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 25: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 25: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 26: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 27: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 27: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 29: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 30: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 31: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 32: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 33: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 34: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 35: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 36: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 37: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 38: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 27: warning #1469-D: (MISRA-C:2004 14.8/R) The statement forming the body of a switch, while, do ... while or for statement shall be a compound statement
+"../HAL/LCD/LCD_program.c", line 27: warning #1469-D: (MISRA-C:2004 14.8/R) The statement forming the body of a switch, while, do ... while or for statement shall be a compound statement
+"../HAL/LCD/LCD_program.c", line 43: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 44: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 44: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 44: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 45: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 46: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 46: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 46: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 47: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 48: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 49: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../HAL/LCD/LCD_program.c", line 49: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../HAL/LCD/LCD_program.c", line 50: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 51: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 51: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 51: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 52: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 53: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 53: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 53: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 58: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 59: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 59: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 59: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 60: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 61: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 61: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 61: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 62: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 63: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 64: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../HAL/LCD/LCD_program.c", line 64: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../HAL/LCD/LCD_program.c", line 65: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 66: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 66: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 66: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 67: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 68: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 68: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 68: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 75: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 76: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 78: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 79: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../HAL/LCD/LCD_program.c", line 79: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../HAL/LCD/LCD_program.c", line 79: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 80: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../HAL/LCD/LCD_program.c", line 80: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../HAL/LCD/LCD_program.c", line 80: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 82: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 83: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../HAL/LCD/LCD_program.c", line 83: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../HAL/LCD/LCD_program.c", line 83: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 84: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../HAL/LCD/LCD_program.c", line 84: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../HAL/LCD/LCD_program.c", line 84: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 86: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 87: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../HAL/LCD/LCD_program.c", line 87: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../HAL/LCD/LCD_program.c", line 87: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 88: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../HAL/LCD/LCD_program.c", line 88: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../HAL/LCD/LCD_program.c", line 88: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 90: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 91: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 93: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 94: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 96: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 97: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 99: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 100: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 102: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 103: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 105: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 106: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 112: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 114: warning #1476-D: (MISRA-C:2004 17.4/R) Array indexing shall be the only allowed form of pointer arithmetic
+"../HAL/LCD/LCD_program.c", line 116: warning #1476-D: (MISRA-C:2004 17.4/R) Array indexing shall be the only allowed form of pointer arithmetic
+"../HAL/LCD/LCD_program.c", line 119: warning #1460-D: (MISRA-C:2004 16.7/A) A pointer parameter in a function prototype should be declared as pointer to const if the pointer is not used to modify the addressed object ("copy_pcharString: const char *")
+"../HAL/LCD/LCD_program.c", line 124: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 128: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 130: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 133: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 134: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 134: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 128: warning #1501-D: (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause
+"../HAL/LCD/LCD_program.c", line 138: warning #1473-D: (MISRA-C:2004 16.4/R) The identifiers used in the declaration and definition of a function shall be identical
+"../HAL/LCD/LCD_program.c", line 140: warning #1497-D: (MISRA-C:2004 5.7/A) No identifier name should be reused ("i")
+"../HAL/LCD/LCD_program.c", line 140: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 141: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 142: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 144: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 145: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 147: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 148: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 148: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 150: warning #1476-D: (MISRA-C:2004 17.4/R) Array indexing shall be the only allowed form of pointer arithmetic
+"../HAL/LCD/LCD_program.c", line 153: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 156: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../HAL/LCD/LCD_program.c", line 159: warning #1460-D: (MISRA-C:2004 16.7/A) A pointer parameter in a function prototype should be declared as pointer to const if the pointer is not used to modify the addressed object ("copy_pu8ArrCh: const u8 *")
+"../HAL/LCD/LCD_program.c", line 163: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 164: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 168: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 170: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 170: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 171: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 173: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 175: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 175: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 175: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+"../HAL/LCD/LCD_program.c", line 175: warning #1484-D: (MISRA-C:2004 6.1/R) The plain char type shall be used only for the storage and use of character values
+"../HAL/LCD/LCD_program.c", line 177: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 183: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 187: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../HAL/LCD/LCD_program.c", line 187: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../HAL/LCD/LCD_program.c", line 187: warning #1394-D: (MISRA-C:2004 10.2/R) The value of an expression of floating type shall not be implicitly converted to a different type if the expression is complex
+"../HAL/LCD/LCD_program.c", line 188: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument
+'Finished building: ../HAL/LCD/LCD_program.c'
+"../MCAL/EXTI/EXTI.c", line 10: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/EXTI/EXTI.c", line 11: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/EXTI/EXTI.c", line 11: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/EXTI/EXTI.c", line 11: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/EXTI/EXTI.c", line 11: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/EXTI/EXTI.c", line 13: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/EXTI/EXTI.c", line 21: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/EXTI/EXTI.c", line 21: warning #1464-D: (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type
+"../MCAL/EXTI/EXTI.c", line 21: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/EXTI/EXTI.c", line 21: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/EXTI/EXTI.c", line 21: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/EXTI/EXTI.c", line 21: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/EXTI/EXTI.c", line 24: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/EXTI/EXTI.c", line 24: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/EXTI/EXTI.c", line 24: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/EXTI/EXTI.c", line 24: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+'Finished building: ../MCAL/EXTI/EXTI.c'
+"../MCAL/GPIO/GPIO.c", line 14: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 15: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 16: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 16: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 16: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 16: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 16: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 17: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 18: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 18: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 18: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 18: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 18: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 19: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 20: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 20: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 20: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 22: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 23: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 24: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 24: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 24: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 24: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 24: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 25: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 26: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 26: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 26: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 26: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 26: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 27: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 28: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 28: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 28: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 30: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 31: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 32: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 32: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 32: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 32: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 32: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 33: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 34: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 34: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 34: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 34: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 34: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 35: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 36: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 36: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 36: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 38: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 39: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 40: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 40: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 40: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 40: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 40: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 41: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 42: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 42: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 42: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 42: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 42: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 43: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 44: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 44: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 44: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 46: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 47: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 48: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 48: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 48: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 48: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 48: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 49: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 50: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 50: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 50: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 50: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 50: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 51: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 52: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 52: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 52: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 54: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 55: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 56: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 56: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 56: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 56: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 56: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 57: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 58: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 58: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 58: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 58: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 58: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 59: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 60: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 60: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 60: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 18: warning #1469-D: (MISRA-C:2004 14.8/R) The statement forming the body of a switch, while, do ... while or for statement shall be a compound statement
+"../MCAL/GPIO/GPIO.c", line 26: warning #1469-D: (MISRA-C:2004 14.8/R) The statement forming the body of a switch, while, do ... while or for statement shall be a compound statement
+"../MCAL/GPIO/GPIO.c", line 34: warning #1469-D: (MISRA-C:2004 14.8/R) The statement forming the body of a switch, while, do ... while or for statement shall be a compound statement
+"../MCAL/GPIO/GPIO.c", line 42: warning #1469-D: (MISRA-C:2004 14.8/R) The statement forming the body of a switch, while, do ... while or for statement shall be a compound statement
+"../MCAL/GPIO/GPIO.c", line 50: warning #1469-D: (MISRA-C:2004 14.8/R) The statement forming the body of a switch, while, do ... while or for statement shall be a compound statement
+"../MCAL/GPIO/GPIO.c", line 58: warning #1469-D: (MISRA-C:2004 14.8/R) The statement forming the body of a switch, while, do ... while or for statement shall be a compound statement
+"../MCAL/GPIO/GPIO.c", line 13: warning #1471-D: (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause
+"../MCAL/GPIO/GPIO.c", line 66: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 69: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 70: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 71: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 71: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 71: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 71: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 72: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 73: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 73: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 73: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 73: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 73: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../MCAL/GPIO/GPIO.c", line 74: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 75: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 75: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 75: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 75: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 76: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 77: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 77: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 77: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 77: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 79: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 80: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 81: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 81: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 81: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 81: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 82: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 83: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 83: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 83: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 83: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 83: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../MCAL/GPIO/GPIO.c", line 84: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 85: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 85: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 85: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 85: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 86: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 87: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 87: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 87: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 87: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 89: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 90: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 91: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 91: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 91: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 91: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 92: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 93: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 93: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 93: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 93: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 93: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../MCAL/GPIO/GPIO.c", line 94: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 95: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 95: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 95: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 95: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 96: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 97: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 97: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 97: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 97: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 99: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 100: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 101: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 101: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 101: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 101: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 102: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 103: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 103: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 103: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 103: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 103: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../MCAL/GPIO/GPIO.c", line 104: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 105: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 105: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 105: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 105: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 106: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 107: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 107: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 107: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 107: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 109: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 110: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 111: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 111: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 111: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 111: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 112: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 113: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 113: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 113: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 113: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 113: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../MCAL/GPIO/GPIO.c", line 114: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 115: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 115: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 115: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 115: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 116: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 117: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 117: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 117: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 117: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 119: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 120: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 121: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 121: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 121: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 121: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 122: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 123: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 123: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 123: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 123: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 123: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../MCAL/GPIO/GPIO.c", line 124: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 125: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 125: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 125: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 125: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 126: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 127: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 127: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 127: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 127: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 132: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 68: warning #1471-D: (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause
+"../MCAL/GPIO/GPIO.c", line 141: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 142: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 143: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 143: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 143: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 143: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 144: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 145: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 145: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 145: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 145: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 146: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 147: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 147: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 147: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 147: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 148: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 149: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 149: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 149: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 149: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 149: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../MCAL/GPIO/GPIO.c", line 150: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 150: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 150: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 150: warning #1459-D: (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+"../MCAL/GPIO/GPIO.c", line 150: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../MCAL/GPIO/GPIO.c", line 152: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 153: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 154: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 154: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 154: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 154: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 155: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 156: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 156: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 156: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 156: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 157: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 158: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 158: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 158: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 158: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 159: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 160: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 160: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 160: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 160: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 160: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../MCAL/GPIO/GPIO.c", line 161: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 161: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 161: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 161: warning #1459-D: (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+"../MCAL/GPIO/GPIO.c", line 161: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../MCAL/GPIO/GPIO.c", line 163: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 164: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 165: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 165: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 165: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 165: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 166: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 167: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 167: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 167: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 167: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 168: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 169: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 169: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 169: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 169: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 170: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 171: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 171: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 171: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 171: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 171: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../MCAL/GPIO/GPIO.c", line 172: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 172: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 172: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 172: warning #1459-D: (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+"../MCAL/GPIO/GPIO.c", line 172: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../MCAL/GPIO/GPIO.c", line 174: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 175: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 176: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 176: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 176: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 176: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 177: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 178: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 178: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 178: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 178: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 179: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 180: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 180: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 180: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 180: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 181: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 182: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 182: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 182: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 182: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 182: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../MCAL/GPIO/GPIO.c", line 183: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 183: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 183: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 183: warning #1459-D: (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+"../MCAL/GPIO/GPIO.c", line 183: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../MCAL/GPIO/GPIO.c", line 185: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 186: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 187: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 187: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 187: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 187: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 188: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 189: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 189: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 189: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 189: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 190: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 191: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 191: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 191: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 191: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 192: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 193: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 193: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 193: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 193: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 193: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../MCAL/GPIO/GPIO.c", line 194: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 194: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 194: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 194: warning #1459-D: (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+"../MCAL/GPIO/GPIO.c", line 194: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../MCAL/GPIO/GPIO.c", line 196: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 197: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 198: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 198: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 198: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 198: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 199: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 200: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 200: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 200: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 200: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 201: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 202: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 202: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 202: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 202: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 203: warning #1455-D: (MISRA-C:2004 2.2/R) Source code shall only use /* ... */ style comments
+"../MCAL/GPIO/GPIO.c", line 204: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 204: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 204: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 204: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 204: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../MCAL/GPIO/GPIO.c", line 205: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 205: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 205: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 205: warning #1459-D: (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions
+"../MCAL/GPIO/GPIO.c", line 205: warning #1397-D: (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand
+"../MCAL/GPIO/GPIO.c", line 140: warning #1471-D: (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause
+"../MCAL/GPIO/GPIO.c", line 213: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 215: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 216: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 216: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 216: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 216: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 216: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 218: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 219: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 219: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 219: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 219: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 219: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 221: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 222: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 222: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 222: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 222: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 222: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 224: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 225: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 225: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 225: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 225: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 225: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 227: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 228: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 228: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 228: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 228: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 228: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 230: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 231: warning #1498-D: (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types
+"../MCAL/GPIO/GPIO.c", line 231: warning #1400-D: (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type
+"../MCAL/GPIO/GPIO.c", line 231: warning #1406-D: (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed
+"../MCAL/GPIO/GPIO.c", line 231: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness
+"../MCAL/GPIO/GPIO.c", line 231: warning #1393-D: (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex
+"../MCAL/GPIO/GPIO.c", line 214: warning #1471-D: (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause
+'Finished building: ../MCAL/GPIO/GPIO.c'
