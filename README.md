@@ -63,4 +63,3 @@ Contributions to the Complex Calculator project are welcome! If you encounter an
 
 The Complex Calculator project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute the code as per the terms of the license.
 
-Please note that this README is just an example, and you should modify it to accurately reflect your specific project details, installation steps, and any additional information relevant to your project.
